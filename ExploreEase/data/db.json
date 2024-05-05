@@ -1,0 +1,34 @@
+{
+  "auth" : [
+  {
+    "nm" : "Silpi Mandal",
+    "unm" : "silpi700",
+    "em" : "silpi@gmail.com",
+    "pass" : "silpi1234"
+  },
+  {
+    "nm" : "Mahadeb Dutta",
+    "unm" : "mahadeb11",
+    "em" : "mahadeb@gmail.com",
+    "pass" : "mahadeb123"
+  },
+  {
+    "nm" : "Agni Dutta",
+    "unm" : "agni09",
+    "em" : "agni@gmail.com",
+    "pass" : "agni1234"
+  },
+  {
+    "nm" : "Siya Ram",
+    "unm" : "ram100",
+    "em" : "ram@gmail.com",
+    "pass" : "ram98760"
+  },
+  {
+    "nm" : "Shiva Durga",
+    "unm" : "shiva25",
+    "em" : "shiva@gmail.com",
+    "pass" : "shiva689"
+  }
+]
+}

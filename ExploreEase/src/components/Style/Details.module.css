@@ -1,0 +1,48 @@
+.card{
+  position: relative;
+  display: flex;
+  align-items: center;
+  text-align: start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 2rem 2rem;
+  margin-top: 6rem;
+}
+
+.image{
+  width: 50%;
+
+}
+
+.card img{
+ width: 100%;
+ height: 100%;
+}
+
+.card a{
+  margin: 1rem;
+  padding: 0.5rem 1rem ;
+  white-space:nowrap;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  width: 5rem;
+  height: auto;
+}
+
+.body{
+  width: 45%;
+  position: absolute;
+  margin-left: 50rem;
+  margin-top: 15rem;
+}
+
+.pr{
+  display: grid;
+  grid-template-columns:repeat(2,auto);
+  grid-gap: 15px;
+  list-style: none;
+  text-align: center;
+}

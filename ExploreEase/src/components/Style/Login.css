@@ -1,0 +1,45 @@
+.log{
+  width: 100%;
+  height: 0rem;
+}
+
+.log img{
+  width: 100%;
+  min-height: 45.5rem;
+  object-fit: cover;
+}
+
+.formdiv{
+  margin: 10rem 10rem 0rem 10rem ;
+  align-items: center;
+  color: white;
+}
+
+.formdiv form{
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: auto;
+}
+
+.formdiv input{
+  height: 3rem;
+  padding: 0 1rem;
+  margin: 1rem 0;
+  border: black solid 2px;
+  border-radius: 0.5rem;
+}
+
+.formdiv button{
+  padding: 0 1rem;
+  margin: auto;
+  border-radius: 0.5rem;
+  height: 3rem;
+  width: 15rem;
+}
+
+.formdiv h6{
+  margin: auto;
+  padding: 1rem 1rem;
+}

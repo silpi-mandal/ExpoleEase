@@ -1,0 +1,54 @@
+.footer{
+  padding: 2rem 6rem;
+  background-color: black;
+  color: white;
+}
+
+.top{
+  display: flex;
+  align-items: center;
+  text-align: start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.top i{
+  font-size: 2rem;
+  margin-left: 1rem;
+  color: white;
+}
+
+.top i:hover{
+  color: blue;
+}
+
+.buttom{
+  padding: 0.5rem;
+  text-align: start;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;  
+}
+
+.buttom div{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.buttom h4{
+  padding: 0.5rem 0;
+}
+
+.buttom a{
+  color:gainsboro;
+  padding: 3px;
+  font-size: 1.1rem;
+  text-decoration: none;
+}
+
+.buttom a:hover{
+  color: blue;
+}
+
+

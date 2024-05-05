@@ -1,0 +1,21 @@
+.maincard{
+    width: 30%;
+    align-content: center;
+    margin: 15rem 32rem;
+    height: 20rem;
+    border: none;
+}
+.maincard h4{
+  text-align: center;
+  color: green;
+}
+.maincard p{
+  color: blue;
+  font-size: 1.2rem;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  text-align: center;
+}
+.maincard h5{
+  text-align: center;
+}

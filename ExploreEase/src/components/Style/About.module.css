@@ -1,0 +1,38 @@
+.about{
+  width: 100%;
+  height: 25rem;
+  position: relative;
+}
+.imageCl{
+  width: 100%;
+  min-height: 25rem;
+  object-fit: cover;
+}
+
+.text{
+  position: absolute;
+  top: 13rem;
+  width: 100%;
+  color: white;
+}
+.text h1{
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 500;
+}
+.allText{
+  margin: 3.5rem 5rem;
+}
+.allText div{
+  margin: 1.5rem 0;
+}
+.allText p{
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.allText span{
+  font-size: 1.2rem;
+  font-style: italic;
+  text-align: justify;
+}
+

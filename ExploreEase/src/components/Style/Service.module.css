@@ -1,0 +1,48 @@
+.service{
+  max-width: 100%;
+  height: 22rem;
+  position: relative;
+}
+.image{
+  width: 100%;
+  min-height: 20rem;
+  object-fit: cover;
+}
+.heading{
+  position: absolute;
+  top: 11rem;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+.heading h1{
+  font-weight: 600;
+  font-size: 50px;
+}
+.placestyle{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 15px 15px;
+  height: 100%;
+  width: auto;
+  
+}
+.cardItem{
+  padding: 5px;
+  overflow: hidden;
+  width: 20rem;
+  height: 23rem;
+  margin: 5px 5px;
+}
+img{
+  height: 10rem ;
+}
+.para{
+  font-size: 12px;
+}
+.pr{
+  float: right;
+  padding: 0.5rem;
+}
