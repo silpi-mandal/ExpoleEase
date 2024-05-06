@@ -12,3 +12,17 @@
 <h1>ExploreEase</h1>
 <h3>Home Page</h3>
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/home.png" alt="sorry" height="100%" width="100%" />
+<h3>SignIn Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/login.png" alt="sorry" height="100%" width="100%" />
+<h3>Register Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/register.png" alt="sorry" height="100%" width="100%" />
+<h3>AboutUs Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/aboutus.png" alt="sorry" height="100%" width="100%" />
+<h3>Tour Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/tour.png" alt="sorry" height="100%" width="100%" />
+<h3>Details Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/details.png" alt="sorry" height="100%" width="100%" />
+<h3>Payment Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/payment.png" alt="sorry" height="100%" width="100%" />
+<h3>Booking Completed Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/booked.png" alt="sorry" height="100%" width="100%" />
