@@ -1,7 +1,5 @@
 # React Tour & Travle Management App
-<br>
 <h2>Project Highlights</h2>
-<br>
 <b> Developed a comprehensive tour and travel management project, empowering users to explore, filter, search, and book dream destinations seamlessly. I am using CSS3, Bootstrap, JavaScript, Advance JavaScript, React.js, React Router, Formik, Json-Server, Rest API, CURD functionlity, Email JS as the key technology to build the project.</b>
 <br>
 <ol>
