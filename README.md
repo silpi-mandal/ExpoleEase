@@ -28,4 +28,4 @@
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/payment.png" alt="sorry" height="100%" width="100%" />
 <h3>Booking Completed Page</h3>
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/booked.png" alt="sorry" height="100%" width="100%" />
-#Thank you for your time and consideration.
+<h1>Thank you for your time and consideration.</h1>
