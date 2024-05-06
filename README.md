@@ -9,3 +9,4 @@
   <li>Streamlined payment processing, facilitating users to make secure transactions and complete bookings hassle-free.</li>
 </ol>
 <br>
+<h1>ExploreEase</h1>
