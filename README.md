@@ -9,5 +9,4 @@
   <li>Developed a authentication system, safeguarding user accounts and payment information throughout the booking process.</li>
   <li>Streamlined payment processing, facilitating users to make secure transactions and complete bookings hassle-free.</li>
 </ol>
-<br>
 <h1>ExploreEase</h1>
