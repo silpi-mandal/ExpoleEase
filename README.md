@@ -10,7 +10,7 @@
   <li>Streamlined payment processing, facilitating users to make secure transactions and complete bookings hassle-free.</li>
 </ol>
 <h1>ExploreEase</h1>
-<h3>Home Page</h3>
+<h2>Home Page</h2>
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/home.png" alt="sorry" height="100%" width="100%" />
 <h3>SignIn Page</h3>
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/login.png" alt="sorry" height="100%" width="100%" />
