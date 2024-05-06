@@ -11,4 +11,4 @@
 </ol>
 <h1>ExploreEase</h1>
 <h3>Home Page</h3>
-<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/home.png" alt="sorry" height="50%" width="50%" />
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/home.png" alt="sorry" height="100%" width="100%" />
