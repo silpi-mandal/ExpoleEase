@@ -18,6 +18,8 @@
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/register.png" alt="sorry" height="100%" width="100%" />
 <h3>AboutUs Page</h3>
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/aboutus.png" alt="sorry" height="100%" width="100%" />
+<h3>Help Page</h3>
+<img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/help.png" alt="sorry" height="100%" width="100%" />
 <h3>Tour Page</h3>
 <img src="https://github.com/silpi-mandal/ExpoleEase/blob/main/Screenshot/tour.png" alt="sorry" height="100%" width="100%" />
 <h3>Details Page</h3>
