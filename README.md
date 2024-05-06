@@ -10,3 +10,5 @@
   <li>Streamlined payment processing, facilitating users to make secure transactions and complete bookings hassle-free.</li>
 </ol>
 <h1>ExploreEase</h1>
+<h3>Home Page</h3>
+<img src="Screenshots\Screenshot\home.png" alt="sorry" height="50%" width="50%" />
